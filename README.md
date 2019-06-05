@@ -8,7 +8,7 @@ There are two kinds of sequences: control sequence  (Ctrl*.txt) and experimental
 data (Brca2*.txt).
 
 We count a) the total number of mutations compared to consensus and b) the kind
-of mutationsa.
+of mutations.
 The result will be graphics which show the mutation frequency for a specific
 kind of mutation after a specific "pseudo-time", which is equivalent to the
 total number of mutations in a sequence.
