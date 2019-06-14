@@ -1,4 +1,7 @@
-This is the program which was used to generate the figures ... in paper ...
+This is the program which was used to generate the figures 5B and S3A in the
+paper "Regulation of the germinal center reaction and somatic hypermutation
+dynamics by homologous recombination" by Gianna Hirth, Carl-Magnus Svensson,
+Katrin Böttcher, Steffen Ullrich, Marc Thilo Figge and Berit Jungnickel.
 
 Input files are in FASTA format. The first sequence is used as a consensus
 while the following sequences are variants of this consensus sequence
